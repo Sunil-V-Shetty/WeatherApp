@@ -35,7 +35,7 @@ This mobile application created and designed from scratch by <b>Sunil V</b> in t
 <p>Check out some of my other projects on GitHub: </p>
 <b><p><span style="margin-right: 75px;">Sunil V: <a href="https://github.com/Sunil-V-Shetty" target="_blank">GitHub</a></span></p></b>
 
-<p>Learn more about me on my Linkedin page: </p>
+<p>Learn more about me on Linkedin page: </p>
 <b><p><span style="margin-right: 66px;">Sunil V: <a href="https://www.linkedin.com/in/sunil-shetty-166395284" target="_blank">LinkedIn</a></span></p></b>
 
 For any questions, reporting of bugs, or requests for additional features, email at 
